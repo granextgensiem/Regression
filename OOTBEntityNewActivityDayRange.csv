@@ -1,0 +1,6 @@
+id,model_metadata,anomaly_name,tenantid,"Target Attributes Value","Target Attributes Criteria Value","Margin Value","Feature Attributes Value","Feature Data Value","Feature Criteria Value","Global Operator Value","Audit date criteria Value","Pre Feature Attributes Value","Pre Feature Data Value","Pre Feature Criteria Value","Pre Global Operator Value"
+6688,OOTBEntityNewActivityDayRange,"Unseen Alert Detected on a Machine - EDR - TA0002:Execution",0,"hostname,alert","not in cs","2,-30",technologygroup,EDR,"equals cs",and,false,,,,
+6697,OOTBEntityNewActivityDayRange,"Unseen Alert Detected on a Machine - EDR - TA0002:Execution",1,"hostname,alert","not in cs","2,-30",technologygroup,EDR,"equals cs",and,false,,,,
+6706,OOTBEntityNewActivityDayRange,"Unseen Alert Detected on a Machine - EDR - TA0002:Execution",2,"hostname,alert","not in cs","2,-30",technologygroup,EDR,"equals cs",and,false,,,,
+8898,OOTBEntityNewActivityDayRange,"Unseen Alert Detected on a Machine - EDR - TA0002:Execution",3,"hostname,alert","not in cs","2,-30",technologygroup,EDR,"equals cs",and,false,,,,
+11064,OOTBEntityNewActivityDayRange,"Unseen Alert Detected on a Machine - EDR - TA0002:Execution",4,"hostname,alert","not in cs","2,-30",technologygroup,EDR,"equals cs",and,false,,,,
